@@ -43,4 +43,4 @@ def merge_data(keys, data)
   
   arr
 end
-
+def find_cool
