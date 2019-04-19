@@ -54,6 +54,6 @@ def find_cool(array)
   new_arr
 end
 
-def organize_schools()
+def organize_schools(hash)
   
 end
