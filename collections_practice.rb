@@ -55,7 +55,7 @@ def find_cool(array)
 end
 
 def organize_schools(hash)
-  new_hash = []
+  new_hash = {}
   
   hash.each do |key, val|
     if new_hash[val[:location]].nil?
