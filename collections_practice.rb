@@ -44,10 +44,10 @@ def merge_data(keys, data)
   arr
 end
 
-def find_cool(hash)
-  arr = []
+def find_cool(array)
+  new_arr = []
   
-  hash.each do |key, val|
-    
+  array.each do |hash|
+      new_arr << hash if hash[]
   end
 end
